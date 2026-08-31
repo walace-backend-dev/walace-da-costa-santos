@@ -1,38 +1,51 @@
- 👋 Walace da Costa Santos
+## 👋 Walace da Costa Santos
 
-🧠 About Me
-I'm a Computer Science student  focused on Data Engineering and Software Development.
+## 🧠 About Me
 
-Currently, I'm developing my skills in Python, SQL, Java and Power BI through courses, studies and practical projects.
+I'm a Computer Science student focused on building my career in Data Engineering and Software Engineering.
 
-My GitHub documents my learning journey as I apply what I learn and progressively develop more complete technical skills
+Currently, I'm developing my skills in Python and SQL through courses, studies, and practical projects.
 
-⚙️ Technologies & Skills
+My GitHub documents my learning journey through projects that apply the concepts I'm learning and progressively increase in complexity.
 
-💻 Programming
+## ⚙️ Technologies & Skills
+
+## 🐍 Programming
 - Python
-- Java
-- Object-Oriented Programming
 
-🗄️ Databases
+## 🗄️ Databases
 - SQL
 - MySQL
 - PostgreSQL
 
-📊 Data & Business Intelligence
-- Power BI
-- Data Analysis
-- Data Visualization
-
-🛠️ Tools
+## 🛠️ Tools
 - Git
 - GitHub
+- PyCharm
 
-🚀 Projects
+## 🚀 Projects
+
+## 🧮 Sales Calculator in Python
+
+Project developed to practice programming logic, user input, calculations, and conditional structures using Python.
+
+**Technology:** Python
+
+🔗 [View Project](https://github.com/Walace-da-Costa-Santos/Calculadora-de-vendas-em-python)
 
 ---
 
-📫 Connect With Me
+### 🩸 Blood Donor Registration
+
+Project developed during my Python studies to practice user input, type conversion, calculations, and programming logic.
+
+**Technology:** Python
+
+🔗 [View Project](https://github.com/Walace-da-Costa-Santos/cadastro-doadores-sangue-python)
+
+---
+
+## 📫 Connect With Me
 
 🔗 [LinkedIn](https://www.linkedin.com/in/walace-da-costa-santos)
 
