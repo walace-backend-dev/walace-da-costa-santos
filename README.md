@@ -31,7 +31,8 @@ Project developed to practice programming logic, user input, calculations, and c
 
 **Technology:** Python
 
-🔗 [View Project](https://github.com/Walace-da-Costa-Santos/Calculadora-de-vendas-em-python)
+🔗 [View Project](https://github.com/Walace-da-Costa-Santos/python-sales-calculator
+)
 
 ---
 
